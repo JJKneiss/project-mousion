@@ -42,9 +42,9 @@ function App() {
     link: "https://coolors.co/"
   },
   {
-    name: "Font Awesome",
-    description: "N/A",
-    link: "https://fontawesome.com/icons"
+    name: "The Modern JavaScript Tutorial",
+    description: "How it's done now. From the basics to advanced topics with simple, but detailed explanations.",
+    link: "https://javascript.info/"
   }];
   let resourceList;
   if (resources !== undefined && resources.length > 0) {
