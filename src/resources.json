@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Test",
+        "description": "A simple test",
+        "link": "https://github.com/JJKneiss/project-mousion"
+    },
+    {
+        "name": "Random User Generator",
+        "description": "A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.",
+        "link": "https://randomuser.me/"
+    },
+    {
+        "name": "Google Fonts",
+        "description": "N/A",
+        "link": "https://fonts.google.com/"
+    },
+    {
+        "name": "Font Awesome",
+        "description": "N/A",
+        "link": "https://fontawesome.com/icons"
+    },
+    {
+        "name": "CSS Tricks",
+        "description": "N/A",
+        "link": "https://css-tricks.com/"
+    },
+    {
+        "name": "CSS Grid Generator",
+        "description": "N/A",
+        "link": "https://cssgrid-generator.netlify.app/"
+    },
+    {
+        "name": "W3Schools",
+        "description": "N/A",
+        "link": "https://www.w3schools.com/"
+    },
+    {
+        "name": "Coolors",
+        "description": "N/A",
+        "link": "https://coolors.co/"
+    },
+    {
+        "name": "The Modern JavaScript Tutorial",
+        "description": "How it's done now. From the basics to advanced topics with simple, but detailed explanations.",
+        "link": "https://javascript.info/"
+    }
+]
